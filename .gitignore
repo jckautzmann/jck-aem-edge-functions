@@ -4,9 +4,6 @@ deploy
 # aio
 .aio
 
-# Cloud Manager domain verification secret
-/.well-known/adobe/cloud-manager-challenge
-
 # system
 .DS_Store
 .DS_Store?
